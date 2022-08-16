@@ -1,0 +1,156 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<meta charset="uft-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+	<title>ErnestGfX</title>
+	<link rel="stylesheet" href="css/all.min.css" />
+	<link rel="stylesheet" href="css/fontawesome.min.css" />
+	<link rel="stylesheet" href="odinaka.css" />
+
+</head>
+
+<body>
+	<!--menu-->
+	<div class="menu_bar">
+		<h1 class="logo">Port<span>folio</span></h1>
+		<ul>
+			<li><a href="#">About Me</a>
+				<div class="dropdown_menu">
+					<ul>
+						<li><a href="#">Summary</a></li>
+						<li><a href="#">Certificates</a></li>
+					</ul>
+				</div>
+			</li>
+
+			<li><a href="#">Resume</a></li>
+			<li><a href="#">Projects</a></li>
+
+			<li><a href="#">Contacts</a>
+				<div class="dropdown_menu">
+					<ul>
+						<li><a href="#">Linkedin</a></li>
+						<li><a href="#">Phonecall</a></li>
+					</ul>
+				</div>
+			</li>
+		</ul>
+	</div>
+	</nav>
+
+	<!--main-content-->
+	<div class="row">
+		<div class="col-2">
+			<h1>Hi, <br>I'm Ernest</h1>
+			<p>A beneficiary of Enugu State Cybersecurity Learning Program</p>
+			<a href="#">Connect on Linkedin</a>
+			<a href="#" class="btn">Email me</a>
+		</div>
+		<div class="extra">
+
+			<img src="ERN.PNG">
+
+		</div>
+	</div>
+
+	<!------WORK & RELEVANT EXPERIENCE------->
+	<div class="service">
+		<div class="title">
+			<h2>WORK & RELEVANT EXPERIENCE</h2>
+		</div>
+
+
+		<div class="card">
+
+			<div class="pra">
+				<h5>Cybersecurity Analyst</h5>
+				<h4>(April - Present)</h4>
+				<p>Enugu Cybersecurity Learning Program,<br>Nigeria.</p>
+			</div>
+
+			<div class="pra2">
+				<p>Developed an understanding of the cyber security risks associated with various technologies and ways
+					to manage them.
+					<br><br>Developed a good working knowledge of various security technologies such as network and
+					application firewalls, host intrusion prevention and anti-virus.
+				</p>
+			</div>
+
+		</div>
+
+	</div>
+
+		
+		</div>
+
+	<!------Education------->
+
+	<div class="service">
+		<div class="title">
+			<h2>EDUCATION</h2>
+		</div>
+
+
+		<div class="card">
+
+			<div class="pra">
+				<h5>IBM Professional Certificate </h5>
+				<h4>(May 2022)</h4>
+				<p>IBM</p>
+			</div>
+
+			<div class="pra2">
+				<p>Eight-month cybersecurity program, developed by IBM, that covers the following
+					skills:<br><br>Information security analyst, IT security analyst, security analyst, Junior
+					cybersecurity analyst, Information Security (INFOSEC), Malware, Cybersecurity, Cyber Attacks,
+					database vulnerabilities, Network Security and Sql Injection and includes hands-on labs
+				</p>
+			</div>
+
+		</div>
+
+	</div>
+
+
+	<!--Contact-me-->
+	<div class="contact-me">
+		<p>View Projects</p>
+		<a class="button-two" href="#">View</a>
+	</div>
+
+	<!--ABOUT-ME-->
+	<section class="about">
+		<div class="main">
+			<img src="ern2.png">
+			<div class="about-text">
+				<h2>About Me</h2>
+				<h5>Cybersecurity Analyst</h5>
+				<p>A Cybersecurity professional with experience delivering cybersecurity awareness, training and
+					phishing
+					campaigns with expert level of facilitation, presentation, written and oral communication skills.
+				</p>
+				<button class="button">Download CV</button>
+			</div>
+		</div>
+	</section>
+
+	<!--footer-->
+	<footer>
+		<p>Ernest Udoezika</p>
+		<p>Contact me</p>
+		<div class="social">
+			<a href="#"><i class="fab fa-facebook-f"></i></a>
+			<a href="#"><i class="fab fa-instagram"></i></a>
+			<a href="#"><i class="fab fa-linkedin-in"></i></a>
+		</div>
+		<p class="end">Copyright By Ernest</p>
+
+	</footer>
+
+</body>
+
+</html>h
